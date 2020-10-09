@@ -1,0 +1,6 @@
+1. menu
+2. add
+3. view
+4. modify
+5. deleterec
+6. search
